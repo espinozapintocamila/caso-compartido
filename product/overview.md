@@ -30,3 +30,10 @@ Microsoft Teams es la herramienta de comunicación y colaboración de Microsoft 
 - Fuera de las reuniones: el 37% de las organizaciones tiene además Slack o Google Chat activo en al menos un equipo. Los archivos compartidos en Teams viven en SharePoint; el 46% de los tickets de soporte del módulo Archivos es "no encuentro el archivo".
 - Los comentarios negativos de las encuestas post-reunión se agrupan en: calidad de audio/video (34%), "demasiadas reuniones" o reuniones demasiado largas (26%), colaboración durante la reunión (19%), notificaciones y ruido (12%), otros (9%).
 - Las cuentas que bajaron de plan o no renovaron citan, en orden: "pagamos por funciones que no usamos", "costo", "el equipo ya usa otras herramientas" (sin especificar cuáles).
+
+## Creencias no verificadas
+
+Ordenadas por impacto × incertidumbre: la primera es la siguiente a atacar.
+
+1. [opportunity: reuniones-sin-cierre] [value] Quienes conducen reuniones recurrentes de seguimiento terminan la mayoría pasadas de hora o sin acuerdos con responsable y fecha, y por eso repiten temas en la reunión siguiente o convocan reuniones extra cada semana.
+2. [opportunity: reuniones-sin-cierre] [viability] Las cuentas donde quienes conducen dejan acuerdos registrados en Teams bajan de plan o dejan de renovar menos que las que no, porque IT ve uso real de lo que paga.
