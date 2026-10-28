@@ -37,3 +37,8 @@ Ordenadas por impacto × incertidumbre: la primera es la siguiente a atacar.
 
 1. [opportunity: reuniones-sin-cierre] [value] Quienes conducen reuniones recurrentes de seguimiento terminan la mayoría pasadas de hora o sin acuerdos con responsable y fecha, y por eso repiten temas en la reunión siguiente o convocan reuniones extra cada semana.
 2. [opportunity: reuniones-sin-cierre] [viability] Las cuentas donde quienes conducen dejan acuerdos registrados en Teams bajan de plan o dejan de renovar menos que las que no, porque IT ve uso real de lo que paga.
+3. [opportunity: colaboracion-en-vivo-fuera-de-teams] [value] Los Team Leads del segmento sacan el trabajo colaborativo de Teams porque la colaboración nativa no cubre lo que necesitan hacer en vivo, no por hábito, por invitados externos ni porque el artefacto ya viva afuera.
+4. [opportunity: colaboracion-en-vivo-fuera-de-teams] [value] El tablero o documento externo se crea para esa reunión, y no es algo que ya existía y sigue vivo afuera (si fuera lo segundo, el problema sería de integración, no de colaboración en vivo).
+5. [opportunity: colaboracion-en-vivo-fuera-de-teams] [value] Lograr que todos los participantes entren a la herramienta externa toma 5 minutos o más por reunión.
+6. [opportunity: colaboracion-en-vivo-fuera-de-teams] [value] Lo que más le cuesta al Team Lead es que el grupo converja a una decisión y que esa decisión quede registrada y se cumpla, y hoy eso ocurre fuera de Teams.
+7. [opportunity: colaboracion-en-vivo-fuera-de-teams] [viability] Si la colaboración en vivo de las reuniones de más de 5 queda cubierta dentro de Teams, las cuentas Business Premium del segmento suben a Business Max, porque IT deja de pagar herramientas paralelas.
